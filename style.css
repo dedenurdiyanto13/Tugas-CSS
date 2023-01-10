@@ -1,0 +1,104 @@
+body {
+    background-color: #fafafa;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 30px;
+    display: flex;
+}
+
+.image {
+    width: 48%;
+}
+
+.image-thumb {
+    width: 100%;
+}
+
+.card-wrapper {
+    width: 40%;
+    margin-left: 40px;
+
+}
+
+.card-1 {
+    border: 1px solid #d6d5d5;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: -10px;
+    color: #8b8686;
+    font-size: 14px;
+}
+
+.card-2 {
+    border: 1px solid #d6d5d5;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: -10px;
+    color: rgb(66, 64, 64);
+    font-size: 14px;
+}
+
+.card-3 {
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 10px;
+}
+
+.form {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.input {
+    width: 250px;
+    height: 30px;
+    border: 1px solid #bdbdbd;
+    padding: 4px 8px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 270px;
+    height: 35px;
+    background-color: #0095f6;
+    border: 1px solid transparent;
+    color: #fff;
+    border-radius: 10px;
+    padding: 4px 8px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.login-fb {
+    text-decoration: none;
+    color: #385185;
+    word-spacing: 1px;
+}
+
+.login-fb i {
+    font-size: 20px;
+}
+
+.forgot {
+    color: rgb(66, 64, 64);
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.signup {
+    color: #0095f6;
+    font-weight: bold;
+    text-decoration: none;
+}
